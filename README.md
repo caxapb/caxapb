@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nastya
-- 👀 I’m interested in Data Science (Classical Machine Learning and NLP) 
+- 👀 I’m interested in Frontend/Backend development and Data Science (Classical Machine Learning and NLP) 
 - 🌱 I’m currently studying at the Innopolis University
 - 📫 How to reach me: https://t.me/caxapust
 
